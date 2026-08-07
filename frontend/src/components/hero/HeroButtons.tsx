@@ -21,7 +21,7 @@ export function HeroButtons() {
                     hover:shadow-[0_0_40px_rgba(0,229,255,.35)]
                 "
             >
-                Explore Operations
+                Explore Operações
 
                 <ArrowRight size={20} />
             </button>
@@ -45,7 +45,7 @@ export function HeroButtons() {
                     hover:bg-cyan-400/10
                 "
             >
-                Download CV
+                Baixar CV
 
                 <Download size={20} />
             </button>

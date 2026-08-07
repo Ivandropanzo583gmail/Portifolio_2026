@@ -73,8 +73,7 @@ export function Contact() {
                     "
                 >
                     Estou disponível para oportunidades como
-                    Desenvolvedor Full Stack, Pentester e
-                    Security Researcher.
+                    Desenvolvedor Full Stack,e Pentester.
 
                     Se acredita que posso agregar valor
                     ao seu projeto ou equipa,
@@ -116,7 +115,7 @@ export function Contact() {
             >
 
                 <a
-                    href="mailto:ivandro@email.com"
+                    href="mailto:ivandropanzo583@gemail.com"
                     className="
                         inline-flex
                         items-center

@@ -27,7 +27,7 @@ export function Experience() {
                     text-cyan-300
                 "
             >
-                Professional Experience
+                    Experiência Profissional
             </span>
 
             <h2
@@ -39,10 +39,10 @@ export function Experience() {
                     md:text-6xl
                 "
             >
-                Building Solutions.
+                Construções de Soluções.
                 <br />
                 <span className="text-cyan-400">
-                    Delivering Value.
+                    Entrega de Valor.
                 </span>
             </h2>
 

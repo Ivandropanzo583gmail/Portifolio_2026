@@ -53,6 +53,10 @@ export const skills = [
             "CSRF",
             "IDOR",
             "Authentication Testing",
+            "nmap",
+            "Burp Suite",
+            "Wireshark",
+            "Metasploit"
         ],
     },
 
@@ -74,6 +78,7 @@ export const skills = [
             "Technical Support",
             "Microsoft Word",
             "Office Tools",
+            "E outros",
         ],
     },
 

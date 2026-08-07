@@ -23,7 +23,7 @@ export function HeroContent() {
                     text-cyan-300
                 "
             >
-                Offensive Security Operations
+                Operações de Segurança Ofensiva
             </span>
 
             <h1 className="mt-6 text-6xl font-black leading-none md:text-8xl">
@@ -44,11 +44,11 @@ export function HeroContent() {
 
                 <Typewriter
                     words={[
-                        "Offensive Security",
+                        "Segurança Ofensiva",
                         "Web Pentester",
-                        "API Security",
-                        "Red Team Enthusiast",
-                        "Security Researcher",
+                        "Segurança de API",
+                        "Entusiasta de TI",
+                        "Segurança de Redes",
                     ]}
                     cursor
                     cursorStyle="_"
@@ -68,10 +68,9 @@ export function HeroContent() {
                     text-slate-400
                 "
             >
-                Desenvolvedor apaixonado por Segurança Ofensiva,
-                Pentest Web e desenvolvimento de laboratórios
-                vulneráveis para pesquisa, aprendizagem e demonstração
-                técnica.
+                Desenvolvedor web e pentester apaixonado por Segurança Ofensiva e desenvolvimento,
+                desenvolvend laboratórios
+                vulneráveis, sistemas saas, e infraestrutura de rede.
             </p>
 
             <HeroButtons />

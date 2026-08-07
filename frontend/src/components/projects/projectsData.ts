@@ -15,7 +15,7 @@ export const projects: Project[] = [
         category: "Full Stack Application",
 
         description:
-            "Plataforma completa de gerenciamento de ficheiros desenvolvida com arquitetura full stack, envolvendo frontend moderno, API backend e persistência de dados.",
+            "Plataforma completa de gerenciamento de ficheiros multimédia desenvolvida com arquitetura full stack, envolvendo frontend moderno, API backend e persistência de dados.",
 
         stack: [
             "React",
@@ -44,7 +44,7 @@ export const projects: Project[] = [
             "Web Security Research",
 
         description:
-            "Aplicação web vulnerável criada para estudo de segurança ofensiva, análise de falhas e demonstração de vulnerabilidades comuns.",
+            "Aplicação web de tiket vulnerável criada para estudo de segurança ofensiva, análise de falhas e demonstração de vulnerabilidades comuns.",
 
         stack: [
             "React",
@@ -53,7 +53,6 @@ export const projects: Project[] = [
         ],
 
         topics: [
-            "XSS",
             "SQL Injection",
             "IDOR",
             "CSRF",
@@ -79,9 +78,12 @@ export const projects: Project[] = [
         ],
 
         topics: [
-            "Enumeration",
-            "Vulnerability Assessment",
-            "Exploitation",
+            "Reconhecimento",
+            "Enumeração",
+            "Ànalise de Vulnerabilidade",
+            "Exploração",
+            "Pós-Exploração",
+            "Relatório"
         ],
 
         type: "security",
@@ -89,7 +91,7 @@ export const projects: Project[] = [
 
 
     {
-        title: "Network Infrastructure Lab",
+        title: "Lab de Infraestrutura de Redes",
 
         category:
             "Infrastructure Security",
@@ -107,8 +109,8 @@ export const projects: Project[] = [
         topics: [
             "SSH",
             "SMB",
-            "Network Services",
-            "Infrastructure Testing",
+            "Infraestrutura de Redes",
+            "Infraestrutura de Teste",
         ],
 
         type: "infrastructure",
@@ -116,7 +118,7 @@ export const projects: Project[] = [
 
 
     {
-        title: "UI/UX Design Projects",
+        title: "Projectos de UI/UX Design",
 
         category:
             "Product Design",

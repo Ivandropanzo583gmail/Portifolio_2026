@@ -1,21 +1,21 @@
 const events = [
     {
-        year: "2020",
-        title: "Programming Journey",
+        year: "2021",
+        title: "Programação e TI",
         description:
             "Início da exploração do desenvolvimento de software.",
     },
     {
-        year: "2023",
-        title: "Full Stack Development",
+        year: "2024",
+        title: "Desenvolvimento Full Stack",
         description:
             "Construção de aplicações web modernas.",
     },
     {
         year: "2025",
-        title: "Cybersecurity",
+        title: "Segurança Ofensiva",
         description:
-            "Estudo de segurança ofensiva e pentesting.",
+            "Estudo e Testes de Segurança Ofensiva.",
     },
 ];
 
@@ -32,7 +32,7 @@ export function Timeline() {
                     font-black
                 "
             >
-                Journey
+                Jornada
             </h3>
 
 

@@ -49,15 +49,15 @@ export function SecurityResearch() {
                 "
             >
 
-                Offensive Security.
+                Segurança Ofensiva.
 
                 <br />
 
                 <span className="text-violet-400">
-                    Research.
+                    Pesquisa.
                 </span>
 
-                Testing.
+                Teste.
 
             </h2>
 

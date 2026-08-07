@@ -9,7 +9,7 @@ export interface SecurityArea {
 export const securityAreas: SecurityArea[] = [
 
     {
-        title: "Web Application Security",
+        title: "Segurança em Aplicações Web",
 
         description:
             "Análise de aplicações web modernas, identificação de vulnerabilidades e avaliação de mecanismos de segurança.",
@@ -29,7 +29,7 @@ export const securityAreas: SecurityArea[] = [
 
 
     {
-        title: "Infrastructure Security",
+        title: "Segurança de Infraestrutura",
 
         description:
             "Testes em ambientes de rede, análise de serviços expostos e avaliação de sistemas Linux e Windows.",
@@ -48,18 +48,19 @@ export const securityAreas: SecurityArea[] = [
 
 
     {
-        title: "Pentest Methodology",
+        title: "Metodologia Pentest",
 
         description:
             "Processo estruturado de avaliação de segurança desde reconhecimento até documentação técnica.",
 
         skills: [
-            "Reconnaissance",
-            "Scanning",
-            "Enumeration",
-            "Exploitation",
-            "Reporting",
-            "Risk Analysis",
+            "Colera de Dados",
+            "Reconhecimento",
+            "Scanner e Enumeração",
+            "Ànalise de Vulnerabilidade",
+            "Exploração e Pós Exploração",
+            "Relatório",
+            "Ànalise de Risco",
         ],
 
         icon: "methodology",
@@ -67,7 +68,7 @@ export const securityAreas: SecurityArea[] = [
 
 
     {
-        title: "Security Environment",
+        title: "Ambiente de Segurança",
 
         description:
             "Construção de laboratórios controlados para prática, pesquisa e simulação de ataques.",

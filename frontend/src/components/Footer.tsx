@@ -5,6 +5,9 @@ import {
     ArrowUpRight,
 } from "lucide-react";
 
+import { SiGithub } from "react-icons/si";
+import {  FaLinkedin } from "react-icons/fa";
+
 export function Footer() {
     return (
         <footer
@@ -73,7 +76,7 @@ export function Footer() {
                     >
 
                         <a
-                            href="https://github.com/ivandropanzo"
+                            href="https://github.com/ivandropanzo583@gmail.com"
                             target="_blank"
                             rel="noreferrer"
                             className="
@@ -85,7 +88,9 @@ export function Footer() {
                                 hover:text-cyan-400
                             "
                         >
-                           {/* <Github size={20} />*/}
+                           <SiGithub size={20} />
+                        
+                            
 
                             GitHub
 
@@ -93,7 +98,7 @@ export function Footer() {
                         </a>
 
                         <a
-                            href="https://linkedin.com/in/ivandropanzo"
+                            href="https://linkedin.com/in/ivandro-panzo-82947a319"
                             target="_blank"
                             rel="noreferrer"
                             className="
@@ -105,7 +110,8 @@ export function Footer() {
                                 hover:text-cyan-400
                             "
                         >
-                           {/* <Linkedin size={20} />*/}
+                           <FaLinkedin size={20} />
+                           
 
                             LinkedIn
 
@@ -113,7 +119,7 @@ export function Footer() {
                         </a>
 
                         <a
-                            href="mailto:ivandro@email.com"
+                            href="mailto:ivandropanzo583@gmail.com"
                             className="
                                 flex
                                 items-center

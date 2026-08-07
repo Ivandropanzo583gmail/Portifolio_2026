@@ -13,7 +13,7 @@ export const experiences: Experience[] = [
         company: "Enterprise Environment",
 
         description:
-            "Atuação no desenvolvimento de aplicações web em ambiente empresarial, participando da implementação de novas funcionalidades, manutenção de sistemas existentes, integração com APIs e evolução de soluções digitais voltadas para necessidades reais de negócio.",
+            "Atuação no desenvolvimento de aplicações web em ambiente empresarial, participando da implementação de novas funcionalidades, manutenção de sistemas existentes, integração com APIs e evolução de soluções digitais voltadas para necessidades reais de negócio. Desenvolvedor com mais de 3 anos de experiência",
 
         technologies: [
             "React",

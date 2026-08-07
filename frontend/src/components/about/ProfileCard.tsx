@@ -5,6 +5,7 @@ import {
 } from "lucide-react";
 
 
+
 export function ProfileCard() {
 
     return (
@@ -24,29 +25,38 @@ export function ProfileCard() {
 
             <div
                 className="
-                    flex
-                    h-72
-                    items-center
-                    justify-center
+                    relative
+                    h-96
+                    w-full
                     overflow-hidden
-                    rounded-2xl
-                    bg-gradient-to-br
-                    from-cyan-500/20
-                    to-violet-500/20
+                    rounded-3xl
+                    border
+                    border-cyan-400/20
                 "
             >
-
-                <span
+                <img
+                    src="/Image.png"
+                    alt="Ivandro Panzo"
                     className="
-                        text-sm
-                        uppercase
-                        tracking-[0.3em]
-                        text-slate-400
+                        h-full
+                        w-full
+                        object-cover
+                        transition-transform
+                        duration-700
+                        hover:scale-105
                     "
-                >
-                    Your Photo
-                </span>
+                />
 
+                <div
+                    className="
+                        absolute
+                        inset-0
+                        bg-gradient-to-t
+                        from-slate-950/70
+                        via-transparent
+                        to-transparent
+                    "
+                />
             </div>
 
 
@@ -61,7 +71,7 @@ export function ProfileCard() {
                     />
 
                     <span>
-                        Full Stack Developer
+                        Full Stack Developer e UI/UX Designer
                     </span>
 
                 </div>
@@ -75,7 +85,7 @@ export function ProfileCard() {
                     />
 
                     <span>
-                        Web Pentester
+                        Pentester
                     </span>
 
                 </div>

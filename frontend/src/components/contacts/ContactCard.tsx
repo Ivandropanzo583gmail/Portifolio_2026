@@ -38,7 +38,7 @@ export function ContactCard({
             "
         >
 
-          { /* <Icon
+            <Icon
                 size={34}
                 className="
                     text-cyan-400
@@ -46,7 +46,7 @@ export function ContactCard({
                     duration-500
                     group-hover:scale-110
                 "
-            />*/}
+            />
 
             <h3
                 className="
